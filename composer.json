@@ -1,0 +1,5 @@
+"autoload": {
+    "psr-4": {
+        "Kevin369\\PhpOopBestP\\": "src/"
+    }
+}
